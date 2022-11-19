@@ -7,7 +7,6 @@
 
 # Site Settings
 locale                   : "en-US"
-theme                    : cayman
 title                    : "Hitarth Gandhi"
 title_separator          : "-"
 name                     : &name "Hitarth Gandhi"
