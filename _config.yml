@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hitarth Gandhi"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Hitarth Gandhi"
 description              : &description "personal description"
