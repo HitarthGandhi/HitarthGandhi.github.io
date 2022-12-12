@@ -83,7 +83,7 @@ author:
   bio: "IITGN Student"
   location: "IIT Gandhinagar"
   employer:
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed:
   googlescholar: "https://scholar.google.com/citations?user=5jkXHSwAAAAJ&hl=en&oi=ao"
   email: "hitarthgandhi01@gmail.com"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
